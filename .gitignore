@@ -3,7 +3,6 @@
 __pycache__/
 
 # Ignore data and logs
-data/
 *.csv
 *.log
 

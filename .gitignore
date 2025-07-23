@@ -1,0 +1,16 @@
+# Ignore Python files
+*.pyc
+__pycache__/
+
+# Ignore data and logs
+data/
+*.csv
+*.log
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore environment files
+.env
+venv/
+.venv

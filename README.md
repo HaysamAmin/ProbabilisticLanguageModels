@@ -3,7 +3,7 @@
 
 ## Lab Synopsis
 
-This Lab uses Python and Jupyter Notebook in a VS Code environment to deal with text files, to do the Probabilistic Language Models + NLP Pipeline of Conestoga Student Success Portal's questions.
+This Lab uses Python and Jupyter Notebook in a VS Code environment to deal with text files, to do the Probabilistic Language Models + NLP Pipeline.
 
 ## Team member names: 
 
@@ -13,6 +13,4 @@ This Lab uses Python and Jupyter Notebook in a VS Code environment to deal with 
 
 ## Data Source: 
 
-This project uses a Conestoga Student Success Portal website, collects student questions, and makes a dataset.
-
-Source: Conestoga Student Success Portal https://successportal.conestogac.on.ca/students
+This project uses texts from Conestoga College website (https://www.conestogac.on.ca/). The texts were collected by recursively going through all the links (max level 2) on Conestoga College website.
